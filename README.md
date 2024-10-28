@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-BTC: `bc1qz8lnjpkmatqg558whm2wytp9dw74v8fsy08rd4`
-
 <!--
 **CyanSquid/CyanSquid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
